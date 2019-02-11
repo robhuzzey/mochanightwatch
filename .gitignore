@@ -1,0 +1,5 @@
+selenium-fail-screenshots
+node_modules
+package-lock.json
+chromedriver.log
+tests_output
